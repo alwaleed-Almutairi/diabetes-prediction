@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scikeras
+tensorflow
+seaborn
+keras
+xgboost
+protobuf==6.31.1
